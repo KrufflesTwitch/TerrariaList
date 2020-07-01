@@ -83,6 +83,12 @@
       "Price": 30.0,
       "ID": 2340,
       "Mod": "Vanilla"
+    },
+    {
+      "Name": "HadalStew",
+      "Price": 2000.0,
+      "ID": 5190,
+      "Mod": "CalamityMod.CalamityMod"
     }
   ]
 }
