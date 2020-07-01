@@ -110,7 +110,7 @@
     },
     {
       "Name": "poisoned",
-      "Price": 12.0,
+      "Price": 30.0,
       "ID": 20,
       "Mod": "Manual"
     },
@@ -134,7 +134,7 @@
     },
     {
       "Name": "onfire",
-      "Price": 25.0,
+      "Price": 70.0,
       "ID": 24,
       "Mod": "Manual"
     },
@@ -194,13 +194,13 @@
     },
     {
       "Name": "cursedinferno",
-      "Price": 36.0,
+      "Price": 100.0,
       "ID": 39,
       "Mod": "Manual"
     },
     {
       "Name": "frostburn",
-      "Price": 38.0,
+      "Price": 100.0,
       "ID": 44,
       "Mod": "Manual"
     },
@@ -236,7 +236,7 @@
     },
     {
       "Name": "suffocation",
-      "Price": 200.0,
+      "Price": 400.0,
       "ID": 68,
       "Mod": "Manual"
     },
@@ -488,7 +488,7 @@
     },
     {
       "Name": "obstructed",
-      "Price": 80.0,
+      "Price": 100.0,
       "ID": 163,
       "Mod": "Manual"
     },
@@ -502,18 +502,6 @@
       "Name": "dryadsblessing",
       "Price": 1.0,
       "ID": 165,
-      "Mod": "Manual"
-    },
-    {
-      "Name": "penetrated",
-      "Price": 18.0,
-      "ID": 169,
-      "Mod": "Manual"
-    },
-    {
-      "Name": "dryadsbane",
-      "Price": 50.0,
-      "ID": 186,
       "Mod": "Manual"
     },
     {
@@ -532,18 +520,6 @@
       "Name": "oozed",
       "Price": 20.0,
       "ID": 197,
-      "Mod": "Manual"
-    },
-    {
-      "Name": "strikingmoment",
-      "Price": 3.0,
-      "ID": 198,
-      "Mod": "Manual"
-    },
-    {
-      "Name": "creativeshock",
-      "Price": 20.0,
-      "ID": 199,
       "Mod": "Manual"
     },
     {
